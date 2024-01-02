@@ -1,3 +1,4 @@
+![logo](https://github.com/JayasooryaJeswin/JayasooryaJeswin/blob/main/WhatsApp%20Image%202024-01-02%20at%2019.22.26_94409fd4.jpg)
 <h1 align="center">Hi 👋, I'm JayaSoorya</h1>
 <h3 align="center">A passionate Product and graphic Designer 😎</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
